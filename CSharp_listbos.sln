@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_listbos", "CSharp_listbos.csproj", "{7051934A-F496-413D-A61B-2524D6776343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7051934A-F496-413D-A61B-2524D6776343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7051934A-F496-413D-A61B-2524D6776343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7051934A-F496-413D-A61B-2524D6776343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7051934A-F496-413D-A61B-2524D6776343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34964651-C06A-410B-95F0-EB8EC3E298D1}
+	EndGlobalSection
+EndGlobal
